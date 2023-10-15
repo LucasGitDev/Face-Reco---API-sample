@@ -1,0 +1,34 @@
+{
+   "data": [
+      {
+         "id": 142425852694926156,
+         "path": "/home/lucas/Inatel/Face Reco Sample/api/uploads/14242156.jpg",
+         "user_id": 108319308885137084
+      },
+      {
+         "id": 243902116966011008,
+         "path": "/home/lucas/Inatel/Face Reco Sample/api/uploads/24390008.jpg",
+         "user_id": 108319308885137084
+      },
+      {
+         "id": 323230214191584554,
+         "path": "/home/lucas/Inatel/Face Reco Sample/api/uploads/32323554.jpg",
+         "user_id": 108319308885137084
+      },
+      {
+         "id": 132626054493365501,
+         "path": "/home/lucas/Inatel/Face Reco Sample/api/uploads/13262501.jpg",
+         "user_id": 323578458256928363
+      },
+      {
+         "id": 238854731087225944,
+         "path": "/home/lucas/Inatel/Face Reco Sample/api/uploads/23885944.jpg",
+         "user_id": 323578458256928363
+      },
+      {
+         "id": 323712995779912012,
+         "path": "/home/lucas/Inatel/Face Reco Sample/api/uploads/32371012.jpg",
+         "user_id": 323578458256928363
+      }
+   ]
+}
